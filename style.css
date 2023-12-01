@@ -843,7 +843,6 @@ section {
     transform: scale(1);
 }
 
-
 .fa-xmark {
     position: absolute;
     right: 5%;
@@ -896,7 +895,7 @@ section {
 }
 
 .box-content:hover #text1 {
-    /* animation: contentText 3s forwards; */
+    animation: contentText 3s forwards;
     animation-delay: 1s;
 }
 
@@ -928,7 +927,7 @@ section {
 }
 
 .box-content:hover #text2 {
-    /* animation: contenttext1 2s ease-in forwards; */
+    animation: contenttext1 2s ease-in forwards;
     animation-delay: 2s;
 }
 
@@ -950,7 +949,7 @@ section {
 }
 
 .box-content:hover #text3 {
-    /* animation: contenttext2 2s ease-in forwards; */
+    animation: contenttext2 2s ease-in forwards;
     animation-delay: 2s;
 }
 
